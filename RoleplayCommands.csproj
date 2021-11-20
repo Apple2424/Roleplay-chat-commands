@@ -7,7 +7,7 @@
     <ProjectGuid>{A18E1A57-AA6C-401B-92E4-6975CB704ABF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>educatalan02</RootNamespace>
+    <RootNamespace>apple2424</RootNamespace>
     <AssemblyName>RoleplayCommands</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
